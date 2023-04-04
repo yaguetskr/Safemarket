@@ -30,7 +30,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="home">
          <img src="{{ url_for('static', filename='imgs/logo.ico') }}" style="font-size: 24px;"alt="" width="30" height="30">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -41,7 +41,7 @@
           <ul class="navbar-nav justify-content-end ml-auto">
 
             <li class="nav-item">
-              <a class="nav-link" href="#">Catálogo completo</a>
+              <a class="nav-link" href="catalogo">Catálogo completo</a>
             </li>
 
             <li class="nav-item dropdown">
@@ -65,9 +65,14 @@
 
 
         </div>
-        <a class="navbar-brand" href="#">
+
+
+        <a class="navbar-brand" href="login">
          <i class="fa-regular fa-user" style="color: #6441a5;"></i>
         </a>
+
+
+
 
       </div>
     </nav>
@@ -94,6 +99,11 @@
 <style>
 body{
 background-color:#6441a5 ;
+}
+
+button{
+color:#6441a5 ;
+border-color: $active-border;
 }
 
 td i {
