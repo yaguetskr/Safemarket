@@ -5,18 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25575663-a647-461a-b939-66b7c9b066d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/market/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/market/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/market/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/market/templates/catalogo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/market/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/safemarket.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/safemarket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/market/petitions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/market/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/market/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/market/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/market/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/goma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/groove.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/ingo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/inma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/key.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/logo.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/mutual.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/patterns.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/polegroup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/prime.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/primevil.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/spilo.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/stimulus.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/user.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +51,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Yago/PycharmProjects/backendsafemarket",
+    "last_opened_file_path": "C:/Users/Yago/PycharmProjects/safemarket",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>

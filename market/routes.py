@@ -2,6 +2,7 @@ from market import app
 from flask import render_template
 
 from market.forms import LoginForm
+from market.petitions import *
 
 
 @app.route('/')
@@ -17,5 +18,5 @@ def login():
 
 @app.route('/catalogo')
 def catalogo():
-
-    return render_template('catalogo.html')
+    products=getproducts()
+    return render_template('catalogo.html',products=products)
