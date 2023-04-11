@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25575663-a647-461a-b939-66b7c9b066d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/market/petitions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/market/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/market/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/goma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/groove.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/ingo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/inma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/key.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/logo.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/mutual.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/patterns.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/polegroup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/prime.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/primevil.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/spilo.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/stimulus.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/user.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NePYJxZyD9N9EYN8zP0KTKNcAK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Yago/PycharmProjects/safemarket",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yago\PycharmProjects\safemarket\templates" />
+      <recent name="C:\PFG\Safemarket\templates" />
+      <recent name="C:\PFG\Safemarket\static\imgs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yago\PycharmProjects\safemarket\market" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25575663-a647-461a-b939-66b7c9b066d1" name="Changes" comment="" />
+      <created>1680021620920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680021620920</updated>
+    </task>
+    <servers />
+  </component>
+</project>
