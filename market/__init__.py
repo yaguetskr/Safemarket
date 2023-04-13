@@ -3,6 +3,6 @@ from flask import Flask, render_template
 
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'una_cadena_aleatoria_y_segura'
+app.config['SECRET_KEY'] = 'seguridadufvaslkofja'
 
 from market import routes

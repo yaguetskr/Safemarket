@@ -13,13 +13,13 @@
               <h2 class="fw-bold mb-2 text-uppercase">Login</h2>
               <p class="text-dark-50 mb-5">Please enter your login and password!</p>
 
-
+              <form action="{{ url_for('login') }}" method="POST">
               <br>
-              {{ form.email.label() }}
-              {{ form.email(class="form-control", placeholder="E-mail") }}
+              {{ form.username.label() }}
+              {{ form.username(class="form-control", placeholder="Nombre de usuario") }}
 
-              {{ form.password.label() }}
-              {{ form.password(class="form-control", placeholder="Contraseña") }}
+              {{ form.pwd.label() }}
+              {{ form.pwd(class="form-control", placeholder="Contraseña") }}
 
 
 
@@ -27,22 +27,8 @@
 
             {{ form.submit(class="btn btn-lg btn-block btn-secondary") }}
 
+              </form>
 
-            <!--
-              <div class="form-outline form-white mb-4">
-                <input type="email" id="typeEmailX" class="form-control form-control-lg" />
-                <label class="form-label" for="typeEmailX">Email</label>
-              </div>
-
-              <div class="form-outline form-dark mb-4">
-                <input type="password" id="typePasswordX" class="form-control form-control-lg" />
-                <label class="form-label" for="typePasswordX">Password</label>
-              </div>
-
-              <p class="small mb-5 pb-lg-2"><a class="text-dark-50" href="#!">Forgot password?</a></p>
-
-              <button class="btn btn-outline-secondary" type="submit">Login</button>
-!-->
               <div class="d-flex justify-content-center text-center mt-4 pt-1">
 
                   <p class="mb-0">Don't have an account? <a href="#!" class="text-dark-50 fw-bold">Sign Up</a>

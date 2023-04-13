@@ -1,14 +1,14 @@
-from flask_wtf import FlaskForm
-from wtforms import StringField, PasswordField, SubmitField
-from wtforms.validators import Length, EqualTo, Email, DataRequired
-class LoginForm(FlaskForm):
-    email = StringField(label='E-mail:')
-    password = PasswordField(label='Contraseña:')
-    submit = SubmitField(label='Iniciar sesión')
 
-class RegisterForm(FlaskForm):
-    email = StringField(label='E-mail:')
-    username = StringField(label='Nombre de usuario:')
-    password1 = PasswordField(label='Contraseña:')
-    password2 = PasswordField(label='Confirmar contraseña:')
-    submit = SubmitField(label='Crear cuenta')
+from wtforms import StringField, PasswordField, SubmitField, Form
+from wtforms.validators import Length, EqualTo, Email, DataRequired
+class LoginForm(Form):
+    username = StringField(id='username',label='Nombre de usuario:')
+    pwd = PasswordField(id='pwd',label='Contraseña:')
+    submit = SubmitField(id='submit',label='Iniciar sesión')
+
+class RegisterForm(Form):
+    email = StringField(id='email',label='E-mail:')
+    username = StringField(id='username',label='Nombre de usuario:')
+    password1 = PasswordField(id='pwd',label='Contraseña:')
+    password2 = PasswordField(id='pwd2',label='Confirmar contraseña:')
+    submit = SubmitField(id='submit',label='Crear cuenta')
